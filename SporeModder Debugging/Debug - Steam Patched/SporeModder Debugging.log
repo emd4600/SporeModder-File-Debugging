@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  SporeModder Debugging.cpp
+  FilePFRecord.cpp
+  DetouredResourceManager.cpp
+  DetouredDBPF.cpp
+  DebugInformation.cpp
+  Debugging.cpp
+  Generating Code...
+  dllmain.cpp
+  SporeModder Debugging.vcxproj -> E:\Eric\Mod Projects\Spore ModAPI Development Kit 2.0.0\SporeModder Debugging\Debug\SporeModder Debugging-steam_patched.dll
+  SporeModder Debugging.vcxproj -> E:\Eric\Mod Projects\Spore ModAPI Development Kit 2.0.0\SporeModder Debugging\Debug\SporeModder Debugging-steam_patched.pdb (Partial PDB)

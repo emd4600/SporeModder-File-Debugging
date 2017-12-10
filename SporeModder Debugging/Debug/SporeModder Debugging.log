@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SporeModder Debugging.cpp
+dllmain.obj : error LNK2019: unresolved external symbol "public: static void __cdecl ModAPI::ModAPIUtils::InitModAPI(void)" (?InitModAPI@ModAPIUtils@ModAPI@@SAXXZ) referenced in function _DllMain@12
+E:\Eric\Mod Projects\Spore ModAPI Development Kit 2.0.0\SporeModder Debugging\Debug\SporeModder Debugging.dll : fatal error LNK1120: 1 unresolved externals

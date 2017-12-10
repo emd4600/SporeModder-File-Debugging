@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Debugging.cpp
+  DebugInformation.cpp
+  DetouredDBPF.cpp
+  DetouredResourceManager.cpp
+  FilePFRecord.cpp
+  SporeModder Debugging.cpp
+  dllmain.cpp
+  Generating code
+  All 2584 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SporeModder Debugging.vcxproj -> E:\Eric\Mod Projects\Spore ModAPI Development Kit 2.0.0\SporeModder Debugging\Release\SporeModder Debugging-steam_patched.dll
+  SporeModder Debugging.vcxproj -> E:\Eric\Mod Projects\Spore ModAPI Development Kit 2.0.0\SporeModder Debugging\Release\SporeModder Debugging-steam_patched.pdb (Full PDB)
